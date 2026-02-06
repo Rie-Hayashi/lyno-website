@@ -1,3 +1,4 @@
+/*
 import { NextRequest, NextResponse } from "next/server";
 import createMiddleware from "next-intl/middleware";
 
@@ -30,3 +31,4 @@ export function middleware(request: NextRequest) {
 export const config = {
   matcher: ["/((?!_next|favicon.ico|.*\\..*).*)"],
 };
+*/
