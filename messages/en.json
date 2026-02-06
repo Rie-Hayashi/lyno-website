@@ -1,0 +1,74 @@
+{
+    "common": {
+      "brand": "LYNO",
+      "tagline": "Specialty coffee for everyday life in Kojiya"
+    },
+  
+    "header": {
+      "about": "About",
+      "menu": "Menu",
+      "beans": "Beans",
+      "news": "News",
+      "access": "Access"
+    },
+  
+    "hero": {
+      "tagline": "Light Your New Ordinary",
+      "title": "LYNO",
+      "subtitle": "Moments of coffee that gently light your everyday"
+    },
+  
+    "about": {
+      "title": "About",
+      "p1": "LYNO is a small specialty coffee stand just a two-minute walk from Kojiya Station. We brew each cup with care, hoping to offer a moment that helps you slow down and breathe amidst your everyday routine.",
+      "p2": "Whether it’s on your way to work, after a long day, or during a quiet walk with family, we invite you to enjoy a cup that feels refined, warm, and naturally part of daily life."
+    },
+  
+    "news": {
+      "title": "News",
+      "description": "Updates on opening hours, limited menus, and other announcements.",
+      "more": "More on Instagram",
+      "empty": "There are no announcements at the moment."
+    },
+  
+    "menu": {
+      "title": "Menu",
+      "description": "Our menu is designed primarily for takeaway, making it easy to enjoy in everyday moments. For pour-over coffee, you can choose from our selection of beans. All syrups are made from sugarcane and contain no artificial sweeteners.",
+      "seasonal": "Seasonal",
+      "coffee": "Coffee",
+      "teaLatte": "Tea Latte",
+      "others": "Others",
+      "option": "Option",
+      "ask": "Ask"
+    },
+  
+    "beans": {
+      "title": "Beans",
+      "description": "We carefully select several distinctive coffees. Small quantities are also available, so feel free to try something new.",
+      "empty": "There are no beans available at the moment.",
+      "soldOut": "Sold out",
+      "priceUnit100": "100g",
+      "priceUnit40": "40g",
+      "drip": "Pour Over",
+      "origin": "Origin",
+      "variety": "Variety",
+      "process": "Process",
+      "roast": "Roast level",
+      "roaster": "Roasted by"
+    },
+  
+    "access": {
+      "title": "Access",
+      "description": "A two-minute walk from Keikyu Kojiya Station, and about 15 minutes from Haneda Airport.",
+      "address": "3-12-10 Minami-Kamata, Ota-ku, Tokyo 144-0035, Japan",
+      "hours_label": "Open",
+      "closed_label": "Closed",
+      "hours_value": "13:00–20:00",
+      "map_cta": "Open in Google Maps"
+    },
+  
+    "footer": {
+      "brand": "LYNO CAFE TOKYO",
+      "copyright": "©"
+    }
+  }
