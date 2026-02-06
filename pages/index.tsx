@@ -1,9 +1,9 @@
-import { useEffect } from "react";
-
 export default function Home() {
-  useEffect(() => {
-    window.location.href = "/file.html";
-  }, []);
-
-  return null;
-}
+    return (
+      <div>
+        <h1>表示テスト成功 🎉</h1>
+        <p>Next.js は正常に動いています</p>
+      </div>
+    );
+  }
+  
